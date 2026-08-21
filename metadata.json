@@ -1,0 +1,6 @@
+{
+  "name": "G Thang",
+  "description": "G Thang VCAM - Virtual Camera, RTSP Live Stream Injection & Frame Pipeline",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
